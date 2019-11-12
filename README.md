@@ -15,13 +15,13 @@ This is an implementation that is based on the Neural Style Transfer paper (Gaty
     
  <img src = "style_disco_elysium.jpg" width = "500" height = "350"> <img src = "Style Results/Gif/DE_512.gif" width = "350" height = "350">
     
-    [Source image : Disco Elysium artwork (left)] (style_disco_elysium.jpg)
-    Result (right) [parameters : 10000 iterations, style loss = 10e6, variation loss = 10e3]
+    Source image : Disco Elysium artwork (left)] (style_disco_elysium.jpg)
+    Result (right) [parameters : 10000 iterations, style loss = 10e6, variation loss = 10e3
  
  <img src = "the_path_to_the_heart_Afremov.jpeg" width = "500" height = "350"> <img src = "Style Results/Gif/PTH_512.gif" width = "350" height = "350">
     
     Source image : The path to the heart by Leonid Afremov (left)
-    Result (right) [parameters : 10000 iterations, style loss = 10e6, variation loss = 10e3]
+    Result (right) [parameters : 10000 iterations, style loss = 10e6, variation loss = 10e3
 
 Train the model by running:
   
